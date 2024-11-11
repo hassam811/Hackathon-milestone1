@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: rgb(251, 246, 246);
+}
+
+.heading{ 
+    color: rgb(75, 116, 103);
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.main{
+    max-width: 30%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px ;
+    text-align: center;
+    margin-bottom: 100px;
+position: relative;
+
+}
+
+.personal{
+    color:rgb(66, 126, 144);
+    font-size: x-large;
+    background-color: rgb(231, 236, 238);
+    text-align: center;
+    padding: 5px;
+
+}
+
+.forpic{
+    color: rgb(163, 109, 84);
+    
+}
+
+.input[type="file"]::file.selector-button{
+    background-color: white;
+    cursor: pointer;
+    font-size: large;
+    color: white;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+.foam{
+margin: bottom 40px;
+}
+
+
+
+
